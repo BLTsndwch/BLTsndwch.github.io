@@ -4,9 +4,11 @@
 
 1. Log into the NVR through [video.ubnt.com](htttps://video.ubnt.com/) or the [direct link](https://cecvideo.gonzalezmethodist.org:7443) using the Chrome web browser. *Note: Other browsers are currently unsupported.*
    
+
 2. From the default **Cameras** menu, you can click on the live feed button to the right of each camera's row to pop out a viewing window. The menu options at the top of the pane listed left to right are: full screen, camera settings, download still image, set viewing quality, adjust volume, and close window. If you move the mouse cursor inside the pane, the zoom control bar will appear. The zoom does not affect recordings unless a Magic Zoom is set (available only on certain camera models).
    ![UFV-ViewLive-3](UFV-ViewLive.assets/UFV-ViewLive-3.png)
    
+
 3. Another way to view the camera is with the **Live View** menu. There, you can view up to 26 cameras simultaneously with customizable viewing presets. To mute camera audio, click **Edit View** and use the speaker icon on each video feed to toggle playback audio mute.
    ![UFV-ViewLive-4](UFV-ViewLive.assets/UFV-ViewLive-4.png)
 
@@ -28,6 +30,6 @@
 
 ------
 
-[Return to doc list](/GUMCdocs/UniFiVideoDocs/index.html)															
+[Return to UFV doc list](/GUMCdocs/UFVdocs/index.html)															
 
 *Updated 2018-07-01*
