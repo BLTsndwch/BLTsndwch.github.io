@@ -22,28 +22,31 @@
    1. *Ubiquiti Account:*
       1. Login with your Ubiquiti account. 
 
-         <img src="UFV-ViewLive.assets/ufv-viewlive-ios-01.png" width=500>
+         ![IMG_4992](UFV-ViewLive.assets/IMG_4992.JPG)
+         
    2. *Local Account:*
       1. If you created a local account instead of a Ubiquiti account, tap *Connect directly to your NVR* underneath the sign in button. *Note: you may need to tap in the blank space above the login fields to dismiss the keyboard.*
          
 
       2. Tap the three circles in the upper right, the tap **Add New NVR.**
-         <img src="UFV-ViewLive.assets/ufv-viewlive-ios-03-1530678505838.png" width=500>
+         ![ufv-viewlive-ios-03](UFV-ViewLive.assets/ufv-viewlive-ios-03-1530680450751.png)
 
          
 
       3. Enter `cecvideo.gonzalezmethodist.org` for the NVR address.
 
       4. Enter the login information you created or were given. Then, tap **Sign In**.
-         <img src="UFV-ViewLive.assets/ufv-viewlive-ios-04-1530678670050-1530678672931.png" width=500>
+         ![ufv-viewlive-ios-04](UFV-ViewLive.assets/ufv-viewlive-ios-04-1530680428702.png)
          
 
 3. To view one camera’s live feed, tap on the camera when in the **Cameras** tab.
-   <img src="UFV-ViewLive.assets/ufv-viewlive-ios-05-1530678836032.png" width=500>
+   ![ufv-viewlive-ios-05](UFV-ViewLive.assets/ufv-viewlive-ios-05-1530680404287-1530680406834.png)
    
 
    1. When viewing a camera, you can pinch or double tap to zoom in or out. Rotate the device to make the video full screen.
-      <img src="UFV-ViewLive.assets/ufv-viewlive-ios-06.png" width=500>
+      ![ufv-viewlive-ios-06](UFV-ViewLive.assets/ufv-viewlive-ios-06-1530680352778.png)
+
+      
 
 4. To view up to 4 cameras at once, tap the **Multi-View** button at the top of the cameras tab. You can customize each panel by tapping on it.
 
