@@ -10,7 +10,7 @@ If using UniFi Video in Chrome on a computer is not working well, you can try st
 2. Launch VLC. From the menu bar, choose **Tools**, then **Preferences.**
    ![UFV-ViewVLC-02](UFV-ViewVLC.assets/UFV-ViewVLC-02.png)
    
-3. In the lower left, set the **Show settings** radio button to **All.** Next, type `rtsp` into the search box at the upper left. Select the *Input / Codecs* -> *Demuxers* -> **RTP/RTSP** list item. Then check *User RTP over RTSP (TCP)*.
+3. In the lower left, set the **Show settings** radio button to **All.** Next, type `rtsp` into the search box at the upper left. Select the *Input / Codecs* -> *Demuxers* -> **RTP/RTSP** list item. Then check *User RTP over RTSP (TCP)*. Click **Save** to save and close the preferences menu.
    ![UFV-ViewVLC-04](UFV-ViewVLC.assets/UFV-ViewVLC-04.png)
    
 4. VLC should now be ready to stream UFV live feeds. 
