@@ -6,6 +6,8 @@
 
 2. From the default **Cameras** menu, you can click on the live feed button to the right of each camera's row to pop out a viewing window. The menu options at the top of the pane listed left to right are: full screen, camera settings, download still image, set viewing quality, adjust volume, and close window. If you move the mouse cursor inside the pane, the zoom control bar will appear. The zoom does not affect recordings unless a Magic Zoom is set (available only on certain camera models).
    ![UFV-ViewLive-3](UFV-ViewLive.assets/UFV-ViewLive-3.png)
+   
+   
 
 3. Another way to view the camera is with the **Live View** menu. There, you can view up to 26 cameras simultaneously with customizable viewing presets. To mute camera audio, click **Edit View** and use the speaker icon on each video feed to toggle playback audio mute.
    ![UFV-ViewLive-4](UFV-ViewLive.assets/UFV-ViewLive-4.png)
@@ -23,7 +25,8 @@
       1. Login with your Ubiquiti account. 
 
          <center><img src="UFV-ViewLive.assets/ufv-viewlive-ios-01.png" width=500></center>
-      
+         
+
    2. *Local Account:*
       1. If you created a local account instead of a Ubiquiti account, tap *Connect directly to your NVR* underneath the sign in button. *Note: you may need to tap in the blank space above the login fields to dismiss the keyboard.*
 
@@ -42,10 +45,11 @@
    
 
 
-      1. When viewing a camera, you can pinch or double tap to zoom in or out. Rotate the device to make the video full screen.
+5. When viewing a camera, you can pinch or double tap to zoom in or out. Rotate the device to make the video full screen.
       <center><img src="UFV-ViewLive.assets/ufv-viewlive-ios-06.png" width=500></center>
+      
 
-4. To view up to 4 cameras at once, tap the **Multi-View** button at the top of the cameras tab. You can customize each panel by tapping on it.
+6. To view up to 4 cameras at once, tap the **Multi-View** button at the top of the cameras tab. You can customize each panel by tapping on it.
 
 ------
 
