@@ -1,6 +1,6 @@
 ## Setting up UniFi SDN on the UVC-NVR
 
-*Note: this can be done before or after setting up UniFi Video. Depending on whether your NVR needs an APT sources update, doing this first before setting up UFV could update UVF so that you begin with the latest version.* 
+*Note: this can be done before or after setting up UniFi Video. Depending on whether your NVR needs an UFV repository update, doing this first before setting up UFV could update UVF so that you begin with the latest version.* 
 
 *Step 6 will not work without an internet connection, but if you really need to setup UniFi beforehand, you could look into uploading the latest [UniFi SDN Linux package](https://www.ubnt.com/download/unifi/default/default/unifi-sdn-controller-5824-debianubuntu-linux) to the NVR with SFTP after step 4.*
 
