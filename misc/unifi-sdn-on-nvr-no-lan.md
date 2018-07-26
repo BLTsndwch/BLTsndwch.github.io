@@ -20,12 +20,15 @@
 
 6. SSH into `ubnt@192.168.1.30` with your new password. PuTTY example shown below. You will be prompted for your password after you click **Open**.
    ![putty1](unifi-sdn-on-nvr-no-lan.assets/putty1.PNG)
+   
 
 7. If it worked, open a SFTP connection to the NVR with WinSCP.
    ![sftp1](unifi-sdn-on-nvr-no-lan.assets/sftp1.PNG)
+   
 
 8. Browse to `/root/`, select your packages to upload on the left pane, and click **Upload**.
    ![sftp1](unifi-sdn-on-nvr-no-lan.assets/sftp2.PNG)
+   
 
 9. If you go back to your SSH session, type `ls`, and press enter, you should see the two packages listed.
 
