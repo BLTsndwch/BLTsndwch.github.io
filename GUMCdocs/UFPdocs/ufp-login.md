@@ -1,10 +1,23 @@
 # UniFi Protect - Log In
 
-1. Tomatically logged into the CEC NVR, click the **launch** button to the right of the *GUMC CEC* listing.
+1. With the Chrome web brower, go to https://protect.ubnt.com or the [local link](https://10.0.0.4:7443) (not recommended).
+
+2. At the blue login screen, click the **Ubiquiti** account sign in button.![ufp-login-0](ufp-login.assets/ufp-login-0.png)
+   
+
+3. Enter your Ubiquiti account credentials.
+
+   ![ufp-login-1](ufp-login.assets/ufp-login-1.png)
+
+   
+
+4. If you are not automatically logged into the CEC NVR, click the **launch** button to the right of the *GUMC CEC* listing.
 
    ![ufp-login-2](ufp-login.assets/ufp-login-2.png)
 
-2. From the Protect home page, you can proceed to view the live stream, view recordings, browse the timeline, manage users, and more depending on your account privileges.
+   
+
+5. From the Protect home page, you can proceed to [view the live stream](/ufp-viewlive.html), view recordings, browse the timeline, manage users, and more depending on your account privileges.
    ![ufp-login-3](ufp-login.assets/ufp-login-3.png)
 
 
