@@ -1,4 +1,16 @@
-![IMG_5444](bike.assets/IMG_5444.JPG)
+![IMG_5444](bike.assets/IMG_5444.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -10,24 +22,7 @@
 
 
 
-
-
-
-
-
-
-
 ![IMG_5441](bike.assets/IMG_5441.JPG)
-
-
-
-
-
-
-
-
-
-
 
 
 
