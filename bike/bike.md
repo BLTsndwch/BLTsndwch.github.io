@@ -18,10 +18,13 @@
 
 
 
-![IMG_5457](bike.assets/IMG_5457.JPG)
 
 
 
+
+
+
+![IMG_5457](bike.assets/IMG_5457-1539194609450.JPG)
 
 
 
