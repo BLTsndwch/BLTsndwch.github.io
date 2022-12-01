@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>benterry.net/music</title>
+<body>
+<h1>What's Playing</h1>
+<br>
+<div id="openseadragon1" style="width: 800px; height: 600px;"></div>
+<script src="/openseadragon/openseadragon.min.js"></script>
+<script type="text/javascript">
+    var viewer = OpenSeadragon({
+        id: "openseadragon1",
+        prefixUrl: "/openseadragon/images/",
+        tileSources: "/openseadragon/content/dzc_output.xml""
+    });
+</script>
+<p><a href="https://benterry.net">Go home.</a></p>
+</body>
+</html>
